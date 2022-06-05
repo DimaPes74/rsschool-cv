@@ -20,9 +20,9 @@ ____
 
  
      ul 
-         li
-         li
-         li
+         li li
+         li li
+         li li
      ul  
 
      style
@@ -43,3 +43,4 @@ ____
 
  #### 7. English
  A2 (*I take courses and develop myself further*)  
+
