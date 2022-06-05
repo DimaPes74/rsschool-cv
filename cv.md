@@ -30,12 +30,16 @@ ____
          pading ;
          font-size ;
          backgraund-color ;
-     style   
+     style 
+
 ____
+
 #### 6. Education
  - ___Vitebsk State Univerdity named after P.M. Masherova___
 
  *Faculty of Pfysical Culture and Sports*
+
  ____
+
  #### 7. English
- A2 (*I take courses and develop myself further*) 
+ A2 (*I take courses and develop myself further*)  
