@@ -1,6 +1,27 @@
-*{
-    padding: 0%;
-    margin: 0%;
-    max-height: 30px;
+body {
+    font-family: 'Times New Roman', Times, serif;
 }
 
+header {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-size: 15px;
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(179, 182, 185, 0.692);
+    text-align: right;
+}
+
+span {
+    padding: 3px;
+    border: 1px solid white;
+    color: azure;
+    display: inline-block;
+    margin: 13px 18px 0 0;
+}
+
+.hover:hover {
+    background-color: blue;
+}
