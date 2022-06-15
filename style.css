@@ -49,6 +49,7 @@ h1 {
 
 .line1 {
     width: 90%;
+    border-color: darkblue;
 }
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -83,6 +84,7 @@ a {
 
 .line2 {
     width: 90%;
+    border-color: darkblue;
 }
 
 .code {
@@ -94,6 +96,7 @@ a {
 
 .line3 {
     width: 90%;
+    border-color: darkblue;
 }
 
 .education_block {
@@ -103,6 +106,7 @@ a {
 
 .line4 {
     width: 90%;
+    border-color: darkblue;
 }
 
 .English {
