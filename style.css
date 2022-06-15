@@ -1,8 +1,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    min-width: 600px;
+    min-width: 800px;
     max-width: 1000px;
-    
     margin: auto;
 }
 
@@ -32,10 +31,10 @@ main {
     background-color: darkgray;
 }
 
-img {
+.avatar {
     display: inline-block; 
     border-radius: 50%;
-    padding: 25px;
+    margin: 35px 165px 25px 65px;
     max-width: 150px;
     max-height: 150px;
 }
@@ -48,28 +47,92 @@ h1 {
     bottom: 70px;
 }
 
-hr {
+.line1 {
     width: 90%;
-
 }
 h2 {
-    font-size: 20px;
-    color: brown;
-    letter-spacing: 5px;
-    padding: 0 0 0 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: black;
+    letter-spacing: 4px;
+
 }
 
 nav {
+    display: inline-block;
     position: relative;
-    top: 10px;
+    bottom: 10px;
     left: 60px;
 }
 
 li {
     font-size: 15px;
-    padding: 0 0 7px 0;
+    padding: 0 0 5px 0;
 }
 
 a {
-    font-size: 17px;
+    font-size: 12px;
+}
+
+.about_me {
+    display: inline-block;
+    width: 500px;
+    position: relative; left: 195px; top: 12px;
+}
+
+.line2 {
+    width: 90%;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black; 
+    position: relative; top: 20px; left: 75px;
+}
+
+.line3 {
+    width: 90%;
+}
+
+.education_block {
+    display: inline-block;
+    position: relative; left: 65px; top: 10px;
+}
+
+.line4 {
+    width: 90%;
+}
+
+.English {
+    display: inline-block;
+    position: relative; top: 10px; left: 65px;
+}
+
+footer{
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    background-color: navy
+}
+
+.Based {
+    display: inline-block;
+    font-size: 12px;
+    color: azure;
+    margin: 10px 40px 0px 60px;
+    position: relative; bottom: 10px;
+}
+
+.linkGit {
+    display: inline-block;
+    margin: 0px 0px 9px 30px;
+    position: relative; bottom: 10px;
+    color: azure;
+}
+
+.icon {
+    display: inline-block;
+    margin: 0 0 0 700px;
 }
