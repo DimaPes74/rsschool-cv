@@ -1,4 +1,4 @@
-![photo](image/image/photo_2024-03-25_12-29-27.jpg "Аватар")
+![photo](image/photo_2024-03-25_12-29-27.png "Аватар")
 
 ## Dmitry Pesotzky
 ****************** 
@@ -30,12 +30,10 @@ in swimming in the past.
 #### Working experience
 
 **Front End Developer (Graduate)**
-    * Programming school TeachMeSkills 
-      from 31.07.2023 to 11.03.2024
+    * Programming school TeachMeSkills (from 31.07.2023 to 11.03.2024)
 
 **TWNSND - internship**
-    * Developer React/TypeScript
-      from 15.03.2024 to 27.05.2024
+    * Developer React/TypeScript (from 15.03.2024 to 27.05.2024)
 
 #### Skills
 * Confident understanding of
