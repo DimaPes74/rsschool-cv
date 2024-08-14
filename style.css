@@ -1,5 +1,168 @@
-* {
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 0 15px;
+}
+
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+h2 {
+    line-height: 40px;
+    font-size: 19px;
+    color: brown;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.container {
+    width: 780px;
+    margin: auto;
+    background-color: rgb(246, 236, 236);
+}
+
+.header {
+    background-color: rgb(230, 211, 249);
+    margin-bottom: 120px;
+}
+
+.header_list {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header_list li {
+    font-size: 14px;
+    list-style: none;
+    line-height: 40px;
+    padding-right: 20px;
+    color: darkslategrey;
+}
+
+.header_list li:hover {
+    transform: scale(1.08);
+    color: black;
+    cursor: pointer;
+}
+
+.main {
+    padding: 0 10px;
+    display: flex;
+}
+
+.main-left {
+    margin-right: 10px;
+}
+
+.main-left_me {
+    width: 243px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(230, 211, 249);
+    position: relative;
+    padding: 25px 0;
+    border-radius: 10px;
+}
+
+.main-left_me img{
+    width: 100px;
+    height: 140px;
+    border-radius: 30%;
+    position: absolute;
+    top: -100px;
+}
+
+.main-left_me span {
+    font-size: 14px;
+    line-height: 0;
+}
+
+.main-left_contacts {
+    background-color: white;
+    width: 233px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.main-left_contacts ul {
+    list-style: none;
     padding: 0;
-    margin: 0;
-    background-color: azure;
+}
+
+.main-left_contacts_item {
+    line-height: 5px;
+    padding-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-style: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.main-left_hars-skills {
+    background-color: white;
+    width: 233px;
+    border-radius: 10px;
+    padding: 0 0 65px 10px;
+}
+
+.main-center_about-me {
+    background-color: white;
+    width: 233px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding: 25px 10px 25px 10px;
+}
+
+.main-center_education {
+    background-color: white;
+    width: 233px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding: 0px 10px 5px 10px;
+}
+
+.main-center {
+    margin-right: 10px;
+}
+
+.main-right {
+    background-color: white;
+    width: 233px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.footer {
+    background-color: rgb(230, 211, 249);
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.footer_logo1 {
+    width: 30px;
+    height: 30px;
+}
+
+.footer span {
+    align-self: flex-end;
+    font-size: 30px;
+}
+
+.footer_logo2 {
+    width: 80px;
+    height: 30px;
 }
